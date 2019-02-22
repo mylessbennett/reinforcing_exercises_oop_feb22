@@ -9,10 +9,10 @@ class Task:
         return "{}: {}".format(self.description, self.due_date)
 
 
-task1 = Task('Get groceries', 'Feb. 25')
-task2 = Task('Do laundry', 'Feb. 24')
-task3 = Task('Finish assignment', 'Feb. 22')
-
-print(task1)
-print(task2)
-print(task3)
+# task1 = Task('Get groceries', 'Feb. 25')
+# task2 = Task('Do laundry', 'Feb. 24')
+# task3 = Task('Finish assignment', 'Feb. 22')
+#
+# print(task1)
+# print(task2)
+# print(task3)
